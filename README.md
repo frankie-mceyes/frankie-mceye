@@ -13,23 +13,23 @@
 
 ## 💬 Known languages
 ![bash](https://img.shields.io/static/v1?logo=linux&label=&message=BASH&color=4EAA25&logoColor=black&style=flat)
-![html](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML&color=critical&logoColor=black&style=flat)
 ![css](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=1572B6&logoColor=black&style=flat)
+![html](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML&color=critical&logoColor=black&style=flat)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=3776AB&logoColor=black&style=flat)
 
 ## 🖥️ Known OS and Distros
 ![android](https://img.shields.io/static/v1?logo=android&label=&message=Android&color=3DDC84&logoColor=black&style=flat)
-![windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=0078D6&logoColor=black&style=flat)
-![ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=E95420&logoColor=black&style=flat)
 ![kali](https://img.shields.io/static/v1?logo=kalilinux&label=&message=Kali%20Linux&color=557C94&logoColor=black&style=flat)
 ![rasbian](https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Rasbian%20OS&color=A22846&logoColor=black&style=flat)
+![ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=E95420&logoColor=black&style=flat)
+![windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=0078D6&logoColor=black&style=flat)
 
 ## 🧰 Known tools and technologies
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=2496ED&logoColor=black&style=flat)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=VIM&color=019733&logoColor=black&style=flat)
-![vmware](https://img.shields.io/static/v1?logo=vmware&label=&message=VMWare&color=607078&logoColor=black&style=flat)
-![virtualbox](https://img.shields.io/static/v1?logo=virtualbox&label=&message=VirtualBox&color=183A61&logoColor=black&style=flat)
 ![tor](https://img.shields.io/static/v1?logo=torproject&label=&message=TOR&color=7E4798&logoColor=black&style=flat)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=VIM&color=019733&logoColor=black&style=flat)
+![virtualbox](https://img.shields.io/static/v1?logo=virtualbox&label=&message=VirtualBox&color=183A61&logoColor=black&style=flat)
+![vmware](https://img.shields.io/static/v1?logo=vmware&label=&message=VMWare&color=607078&logoColor=black&style=flat)
 ![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=Wordpress&color=21759B&logoColor=black&style=flat)
 
 ### 📫 *contact me*
