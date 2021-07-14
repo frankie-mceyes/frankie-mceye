@@ -1,6 +1,6 @@
 # Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-*Greetings, children! I love computers, especially Linux, doing music and play videogames.*
+*Greetings, children! I love computers, Linux, doing music and play videogames.*
 
 ## 🍎 What am I
 ![italy](https://img.shields.io/static/v1?label=&message=🇮🇹%20Italian&color=006643&logoColor=AAA&style=flat)
@@ -49,8 +49,9 @@
 > ![windowsserver](https://img.shields.io/static/v1?logo=windows&label=&message=Windows%20Server&color=0078D6&logoColor=black&style=flat)
 
 ## 🧰 Known technologies
-> ### Enterprise use
+> ### Professional use
 > ![activedivectory](https://img.shields.io/static/v1?logo=microsoft&label=&message=Active%20Directory&color=0078D6&logoColor=black&style=flat)
+> ![ATA](https://img.shields.io/static/v1?logo=microsoft&label=&message=Microsoft%20ATA&color=yellow&logoColor=black&style=flat)
 > ![falcon](https://img.shields.io/static/v1?logo=falcon&label=&message=Crowdstrike%20Falcon&color=F0AD4E&logoColor=black&style=flat)
 > ![fireeye](https://img.shields.io/static/v1?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMzAwLjAwMDAwMHB0IiBoZWlnaHQ9IjMwMC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDMwMC4wMDAwMDAgMzAwLjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsMzAwLjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTE1MjUgMjU2NiBjLTE4MSAtMzAgLTM5MyAtMTE3IC01NjUgLTIzMSAtMjEyIC0xNDEgLTQ0NSAtNDA3IC01NjQKLTY0MyAtNjQgLTEyNyAtNjUgLTEyNyA2OSAtMjcgMjAyIDE1MSA0MzEgMjg0IDYwMCAzNDkgMzkgMTUgNzkgMzEgOTAgMzYgMjkKMTQgMTU0IDQ1IDI3MyA3MCAxNDcgMzAgMzAxIDQyIDQyMyAzNCBsMTA2IC02IDcgMjYgYzEwIDM5IC0xMCAxODQgLTMzIDI0NgotNDAgMTA2IC0xMDQgMTQ3IC0yNDIgMTU0IC00OCAzIC0xMTggMCAtMTY0IC04eiIvPgo8cGF0aCBkPSJNMjE2NSAyNDA4IGMyMiAtMTM2IDI2IC0xODIgMzIgLTM3MyA5IC0zMTcgLTE1IC01MDcgLTk2IC03NTIgLTYwCi0xODIgLTEzOSAtMzQ5IC0yMTAgLTQ0MyAtMjMgLTMwIC00MSAtNTggLTQxIC02MiAwIC0zOSAyMDUgLTEyOCAyOTcgLTEyOAoxMTAgMCAyMTAgMTAwIDI3NSAyNzUgNDkgMTMyIDYzIDIwNSA4MiA0MDYgMjggMjk5IC01MSA2MzEgLTIyMiA5NDQgLTQ0IDgwCi0xMDkgMTc1IC0xMTkgMTc1IC0zIDAgLTIgLTE5IDIgLTQyeiIvPgo8cGF0aCBkPSJNNjE3IDE1MTAgYy0xNjIgLTEwOCAtMjA2IC0yMDcgLTE1NyAtMzQ4IDMwIC04NCA5OSAtMTc5IDIwOCAtMjg0CjIxOCAtMjA5IDQ1OSAtMzM0IDc4MiAtNDA1IDk1IC0yMSAxNTAgLTI2IDMyMiAtMzAgMjI0IC02IDI2MSAtMiAyMTQgMjIgLTE2CjggLTMyIDE1IC0zNyAxNSAtMTUgMCAtMTI4IDUyIC0yNjkgMTIzIC0yMzkgMTIxIC00MDMgMjM4IC01NjUgNDAxIC0xNzEgMTcyCi0zMDcgMzU5IC0zNjYgNTAxIC0xNSAzNyAtMjggNTUgLTQwIDU1IC0xMCAwIC01MSAtMjMgLTkyIC01MHoiLz4KPC9nPgo8L3N2Zz4K&label=&message=FireEye%20Suite&color=BB1928&logoColor=black&style=flat)
 > ![ibm](https://img.shields.io/static/v1?logo=ibm&label=&message=IBM%20QRadar&color=052FAD&logoColor=black&style=flat)
@@ -68,9 +69,17 @@
 > ![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=Wordpress&color=21759B&logoColor=black&style=flat)
 
 ## 📄 Certifications
-![cert1](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
-![cert2](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
-![cert3](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer%20&color=FF0000&logoColor=black&style=flat)<br />
+![managingcybersecincidents](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
+![FENS](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
+![FESE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer%20&color=FF0000&logoColor=black&style=flat)<br />
+#### 💭 Bucket List...
+![LPIC3](https://img.shields.io/static/v1?label=LPI&message=LPIC-3%20Enterprise%20Security&color=FCC624&logoColor=black&style=flat)<br />
+![RHCE](https://img.shields.io/static/v1?label=Red%20Hat&message=RHCE&color=EE0000&logoColor=black&style=flat)<br />
+![CEH](https://img.shields.io/static/v1?label=EC-Council&message=CEH&color=64B5F6&logoColor=black&style=flat)<br />
+![CFH](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Hunter&color=FFD747&logoColor=black&style=flat)<br />
+![CFR](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Responder&color=BCBDC0&logoColor=black&style=flat)<br />
+![CCNA](https://img.shields.io/static/v1?label=CISCO&message=CCNA&color=00BCEB&logoColor=black&style=flat)<br />
+
 
 ### 📫 *contact me*
 ![discord](https://img.shields.io/static/v1?logo=discord&label=&message=theVirus00%238532&color=5865F2&logoColor=white&style=flat)
