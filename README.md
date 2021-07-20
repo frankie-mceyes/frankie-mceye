@@ -18,13 +18,13 @@
 ![html](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML&color=critical&logoColor=black&style=flat)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=3776AB&logoColor=black&style=flat)
 #### 💭 I wish to learn...
-![asm](https://img.shields.io/static/v1?logo=intel&label=&message=Assembly&color=0071C5&logoColor=black&style=flat)
-![cpp](https://img.shields.io/static/v1?logo=c&label=&message=C&color=00599C&logoColor=black&style=flat)
-![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=239120&logoColor=black&style=flat)
-![electron](https://img.shields.io/static/v1?logo=electron&label=&message=Electron&color=47848F&logoColor=black&style=flat)
-![golang](https://img.shields.io/static/v1?logo=google&label=&message=Go%20Lang&color=4285F4&logoColor=black&style=flat)
-![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=777BB4&logoColor=black&style=flat)
-![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=5B3828&logoColor=black&style=flat)
+> ![asm](https://img.shields.io/static/v1?logo=intel&label=&message=Assembly&color=0071C5&logoColor=black&style=flat)
+> ![cpp](https://img.shields.io/static/v1?logo=c&label=&message=C&color=00599C&logoColor=black&style=flat)
+> ![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=239120&logoColor=black&style=flat)
+> ![electron](https://img.shields.io/static/v1?logo=electron&label=&message=Electron&color=47848F&logoColor=black&style=flat)
+> ![golang](https://img.shields.io/static/v1?logo=google&label=&message=Go%20Lang&color=4285F4&logoColor=black&style=flat)
+> ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=777BB4&logoColor=black&style=flat)
+> ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=Rust&color=5B3828&logoColor=black&style=flat)
 
 ## 🖥️ Known OS and Distros
 > ### Mobile
@@ -73,13 +73,14 @@
 ![FENS](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
 ![FESE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer%20&color=FF0000&logoColor=black&style=flat)<br />
 #### 💭 Bucket List...
-![LPIC3](https://img.shields.io/static/v1?label=LPI&message=LPIC-3%20Enterprise%20Security&color=FCC624&logoColor=black&style=flat)<br />
-![RHCE](https://img.shields.io/static/v1?label=Red%20Hat&message=RHCE&color=EE0000&logoColor=black&style=flat)<br />
-![CEH](https://img.shields.io/static/v1?label=EC-Council&message=CEH&color=64B5F6&logoColor=black&style=flat)<br />
-![CFH](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Hunter&color=FFD747&logoColor=black&style=flat)<br />
-![CFR](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Responder&color=BCBDC0&logoColor=black&style=flat)<br />
-![CCNA](https://img.shields.io/static/v1?label=CISCO&message=CCNA&color=00BCEB&logoColor=black&style=flat)<br />
-
+> ![CCNA](https://img.shields.io/static/v1?label=CISCO&message=CCNA&color=00BCEB&logoColor=black&style=flat)
+> ![CEH](https://img.shields.io/static/v1?label=EC-Council&message=CEH&color=DF333Ct&logoColor=black&style=flat)
+> ![CFH](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Hunter&color=FFD747&logoColor=black&style=flat)
+> ![CFR](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Responder&color=BCBDC0&logoColor=black&style=flat)
+> ![LPIC3](https://img.shields.io/static/v1?label=LPI&message=LPIC-3%20Enterprise%20Security&color=FCC624&logoColor=black&style=flat)
+> ![RHCE](https://img.shields.io/static/v1?label=Red%20Hat&message=RHCE&color=EE0000&logoColor=black&style=flat)
+> ![SEC+](https://img.shields.io/static/v1?label=CompTIA2&message=Security%2B&color=FFFFFF&logoColor=black&style=flat)
+> ![SSCP](https://img.shields.io/static/v1?label=ISC%C2%B2&message=SSCP&color=08956F&logoColor=black&style=flat)
 
 ### 📫 *contact me*
 ![discord](https://img.shields.io/static/v1?logo=discord&label=&message=theVirus00%238532&color=5865F2&logoColor=white&style=flat)
