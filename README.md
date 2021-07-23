@@ -78,6 +78,7 @@
 > ![CFH](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Hunter&color=FFD747&logoColor=black&style=flat)
 > ![CFR](https://img.shields.io/static/v1?label=CrowdStrike&message=Certified%20Falcon%20Responder&color=BCBDC0&logoColor=black&style=flat)
 > ![LPIC3](https://img.shields.io/static/v1?label=LPI&message=LPIC-3%20Enterprise%20Security&color=FCC624&logoColor=black&style=flat)
+> ![OSCP](https://img.shields.io/static/v1?label=OffensiveSecurity&message=OSCP&color=A90C1C&logoColor=black&style=flat)
 > ![RHCE](https://img.shields.io/static/v1?label=Red%20Hat&message=RHCE&color=EE0000&logoColor=black&style=flat)
 > ![SEC+](https://img.shields.io/static/v1?label=CompTIA2&message=Security%2B&color=FFFFFF&logoColor=black&style=flat)
 > ![SSCP](https://img.shields.io/static/v1?label=ISC%C2%B2&message=SSCP&color=08956F&logoColor=black&style=flat)
