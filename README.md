@@ -69,9 +69,10 @@
 > ![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=Wordpress&color=21759B&logoColor=black&style=flat)
 
 ## 📄 Certifications
-![managingcybersecincidents](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
-![FENS](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
-![FESE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer%20&color=FF0000&logoColor=black&style=flat)<br />
+![CYBERSECINCIDENTS](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
+![FIRE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
+![FIRE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer&color=FF0000&logoColor=black&style=flat)<br />
+![SEC504](https://img.shields.io/static/v1?label=GIAC&message=Certified%20Incident%20Handler%20(SEC504)&color=yellow&logoColor=black&style=flat)<br />
 #### 💭 Bucket List...
 > ![CISCO](https://img.shields.io/static/v1?label=CISCO&message=CCNA&color=00BCEB&logoColor=black&style=flat)
 > ![CMPTIA](https://img.shields.io/static/v1?label=CompTIA2&message=Security%2B&color=FFFFFF&logoColor=black&style=flat)
