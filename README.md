@@ -4,7 +4,7 @@
 
 ## 🍎 What am I
 ![italy](https://img.shields.io/static/v1?label=&message=🇮🇹%20Italian&color=006643&logoColor=AAA&style=flat)
-![cti](https://img.shields.io/static/v1?label=&message=🕵%20OSINT%20%26%20Cyber%20Threat%20Intelligence%20analyst&color=333&logoColor=AAA&style=flat)
+![cti](https://img.shields.io/static/v1?label=&message=🕵%20Incident%20Responder%20%26%20Cyber%20Threat%20Intelligence%20analyst&color=333&logoColor=AAA&style=flat)
 ![linux](https://img.shields.io/static/v1?label=&message=🐧%20Linux%20Sysadmin&color=333&logoColor=AAA&style=flat)
 ![malware](https://img.shields.io/static/v1?label=&message=👾%20Dynamic%20Malware%20analyst&color=333&logoColor=AAA&style=flat)
 ![oldschool](https://img.shields.io/static/v1?label=&message=🎮%20Old%20school%20gaming%20and%20computer%20enthusiast&color=333&logoColor=AAA&style=flat)
