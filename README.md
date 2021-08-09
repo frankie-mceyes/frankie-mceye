@@ -69,10 +69,13 @@
 > ![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=Wordpress&color=21759B&logoColor=black&style=flat)
 
 ## 📄 Certifications
-![CYBERSECINCIDENTS](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
 ![FIRE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Partner%20Sales%20Engineer%20Certification%20for%20Network%20Security&color=FF0000&logoColor=black&style=flat)<br />
 ![FIRE](https://img.shields.io/static/v1?label=FireEye%20Inc&message=FireEye%20Systems%20Engineer&color=FF0000&logoColor=black&style=flat)<br />
 ![SEC504](https://img.shields.io/static/v1?label=GIAC&message=Certified%20Incident%20Handler%20(SEC504)&color=yellow&logoColor=black&style=flat)<br />
+### Courses
+![ManagingCybersecIncidents](https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat)<br />
+![InternationalCyberConflicts](https://img.shields.io/static/v1?label=The%20State%20University%20of%20New%20York&message=International%20Cyber%20Conflicts&color=2496ED&logoColor=black&style=flat)<br />
+
 #### 💭 Bucket List...
 > ![CISCO](https://img.shields.io/static/v1?label=CISCO&message=CCNA&color=00BCEB&logoColor=black&style=flat)
 > ![CMPTIA](https://img.shields.io/static/v1?label=CompTIA2&message=Security%2B&color=FFFFFF&logoColor=black&style=flat)
@@ -91,7 +94,7 @@
 > ![PENTEST](https://img.shields.io/static/v1?label=PentesterAcademy&message=TSHARK&color=7DB8DD&logoColor=black&style=flat)
 > ![REDHAT](https://img.shields.io/static/v1?label=Red%20Hat&message=RHCE&color=EE0000&logoColor=black&style=flat)
 
-### 📫 *contact me*
+## 📫 *contact me*
 ![discord](https://img.shields.io/static/v1?logo=discord&label=&message=theVirus00%238532&color=5865F2&logoColor=white&style=flat)
 ![linkedin](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin.com/in/mceyes&color=0A66C2&logoColor=white&style=flat)
 ![mail](https://img.shields.io/static/v1?logo=protonmail&label=&message=mceyes@protonmail.com&color=8B89CC&logoColor=black&style=flat)
