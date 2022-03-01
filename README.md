@@ -114,13 +114,15 @@
 
 ## 📫 *contacts*
 <a href="https://blog.thevirusdoublezero.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=ghost&label=&message=Blog&color=222222&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://twitter.com/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=1DA1F2&logoColor=black&style=for-the-badge" target="_blank"></a>
+<a href="https://mastodon.uno/web/@mceyes" target="_blank"><img src="https://img.shields.io/static/v1?logo=mastodon&label=&message=Mastodon&color=40b5de&logoColor=black&style=for-the-badge" target="_blank"></a>
+<a href="https://reddit.com/u/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=reddit&label=&message=Reddit&color=FF4500&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://discordapp.com/channels/@me/thevirus00#8532/" target="_blank"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=5865F2&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://linkedin.com/in/mceyes" target="_blank"><img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=0A66C2&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="mailto:mceyes@protonmail.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=protonmail&label=&message=eMail&color=8B89CC&logoColor=black&style=for-the-badge" target="_blank"></a>
-<a href="https://reddit.com/u/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=reddit&label=&message=Reddit&color=FF4500&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://steamcommunity.com/id/thevirus00/" target="_blank"><img src="https://img.shields.io/static/v1?logo=steam&label=&message=Steam&color=000000&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://t.me/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Telegram&color=26A5E4&logoColor=black&style=for-the-badge" target="_blank"></a>
-<a href="https://twitter.com/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=1DA1F2&logoColor=black&style=for-the-badge" target="_blank"></a>
 <hr>
 
 ##### *all your base are belong to us*
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S32Y6P1)
