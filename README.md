@@ -73,6 +73,8 @@
 <a href="https://www.fireeye.com/services/training/courses.html"><img src="https://img.shields.io/static/v1?label=FireEye&message=FireEye%20Systems%20Engineer&color=FF0000&logoColor=black&style=flat-square"></a><br />
 <a href="https://www.credly.com/badges/c918d63a-3af7-47fc-824a-6f0c04d61365"><img src="https://img.shields.io/static/v1?label=GIAC%20(SANS)&message=Certified%20Incident%20Handler%20(SEC504)&color=yellow&logoColor=black&style=flat-square"></a><br />
 <a href="https://coursera.org/verify/specialization/YRRCV6SSFYT5"><img src="https://img.shields.io/static/v1?label=Infosec&message=Cyber%20Incident%20Response%20Specialization&color=225b7c&logoColor=black&style=flat-square"></a><br />
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=aJk12cL3EOsDHJr+mKv4pW9KJHFPbvvCSmvAElF6GWI="><img src="https://img.shields.io/static/v1?label=EC-Council&message=Certified%20Incident%20Handler&color=da262b&logoColor=black&style=flat-square"></a><br />
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/ZK5CGLQ5HUH4"><img src="https://img.shields.io/static/v1?label=IBM&message=IBM%20Technical%20Support&color=d8d8d8&logoColor=black&style=flat-square"></a><br />
 
 ### 🏫 Courses
 <a href="https://www.coursera.org/account/accomplishments/records/RS34C5RCRTUN"><img src="https://img.shields.io/static/v1?label=University%20System%20of%20Georgia&message=Managing%20Cybersecurity%20Incidents%20and%20Disasters&color=2496ED&logoColor=black&style=flat-square"></a><br />
