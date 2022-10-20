@@ -103,7 +103,7 @@
 
 
 ## 📫 *contacts*
-<a href="https://blog.thevirusdoublezero.com" target="_blank"><img src="https://img.shields.io/static/v1?logo=ghost&label=&message=Blog&color=222222&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://mceyes.me" target="_blank"><img src="https://img.shields.io/static/v1?logo=ghost&label=&message=Blog&color=222222&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://twitter.com/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=1DA1F2&logoColor=black&style=for-the-badge" target="_blank"></a>
 <a href="https://mastodon.uno/web/@mceyes" target="_blank"><img src="https://img.shields.io/static/v1?logo=mastodon&label=&message=Mastodon&color=203155&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://reddit.com/u/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=reddit&label=&message=Reddit&color=FF4500&logoColor=white&style=for-the-badge" target="_blank"></a>
