@@ -16,7 +16,8 @@
 
 ## 🖥️ Known OS and Distros
 > ### Mobile
-> <img src="https://img.shields.io/static/v1?logo=android&label=&message=Android%20AOSP&color=3DDC84&logoColor=black&style=flat">
+> <img src="https://img.shields.io/static/v1?logo=android&label=&message=Android%20AOSP&color=08945c&logoColor=black&style=flat">
+> <img src="https://img.shields.io/static/v1?logo=Osano&label=&message=ColorOS&color=3DDC84&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=huawei&label=&message=EMUI&color=FF0000&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=lineageos&label=&message=LineageOS&color=167C80&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=xiaomi&label=&message=MIUI&color=FF6900&logoColor=black&style=flat">
@@ -31,8 +32,9 @@
 > <img src="https://img.shields.io/static/v1?logo=raspberrypi&label=&message=Rasbian%20OS&color=A22846&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=retropie&label=&message=RetroPie&color=CC0000&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=tails&label=&message=Tails&color=56347C&logoColor=black&style=flat">
+> <img src="https://img.shields.io/static/v1?logo=&label=&message=Tsurugi%20Linux&color=1d2122&logoColor=black&style=flat">
 > <img src="https://img.shields.io/static/v1?logo=ubuntu&label=&message=Ubuntu&color=E95420&logoColor=black&style=flat">
-> <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows%20XP%20-%2011&color=0078D6&logoColor=black&style=flat">
+> <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows%20(XP%20-%3E%2011)&color=0078D6&logoColor=black&style=flat">
 > 
 > ### Server
 > <img src="https://img.shields.io/static/v1?logo=openwrt&label=&message=OpenWRT&color=00B5E2&logoColor=black&style=flat">
