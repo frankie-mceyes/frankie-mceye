@@ -1,9 +1,9 @@
 # Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">
 
-*Greetings, children! I love computers, Linux, music and play videogames.*
+*Greetings, children!*
 
 ## 🍎 I am
-<img src="https://img.shields.io/static/v1?label=&message=%F0%9F%87%AE%F0%9F%87%B9%20Italian&color=006643&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%95%B5%20Certified%20Incident%20Responder%20&%20Cyber%20Threat%20Intelligence%20analyst&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%90%A7%20Linux%20Sysadmin&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%A6%A0%20Dynamic%20Malware%20analyst&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8E%AE%20Old%20school%20computer%20enthusiast%20and%20gamer&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?logo=OpenSourceInitiative&label=&message=Open%20Source%20enthusiast&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%91%A5%20SOCMINT%20analyst&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%A4%96%20Wannabe%20Coder&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?logo=bitcoin&label=&message=Crypto%20enthusiast&color=222&logoColor=white&style=flat">
+<img src="https://img.shields.io/static/v1?label=&message=%F0%9F%87%AE%F0%9F%87%B9%20Italian&color=006643&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%95%B5%20Certified%20Incident%20Responder%20&%20Cyber%20Threat%20Intelligence%20analyst&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%90%A7%20Linux%20Sysadmin&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%A6%A0%20Dynamic%20Malware%20analyst&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8E%AE%20Old%20school%20computer%20enthusiast%20and%20gamer&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?logo=OpenSourceInitiative&label=&message=Open%20Source%20enthusiast&color=222&logoColor=AAA&style=flat"> <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%91%A5%20SOCMINT%20analyst&color=222&logoColor=AAA&style=flat">
 
 <br>
 
@@ -108,7 +108,7 @@
 
 ## 📫 *contacts*
 <a href="https://mceyes.me" target="_blank"><img src="https://img.shields.io/static/v1?logo=ghost&label=&message=Blog&color=222222&logoColor=white&style=for-the-badge" target="_blank"></a>
-<a href="https://twitter.com/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=1DA1F2&logoColor=black&style=for-the-badge" target="_blank"></a>
+<a href="https://twitter.com/FrankieMcEyes" target="_blank"><img src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=1DA1F2&logoColor=black&style=for-the-badge" target="_blank"></a>
 <a href="https://mastodon.uno/web/@mceyes" target="_blank"><img src="https://img.shields.io/static/v1?logo=mastodon&label=&message=Mastodon&color=203155&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://reddit.com/u/thevirus00" target="_blank"><img src="https://img.shields.io/static/v1?logo=reddit&label=&message=Reddit&color=FF4500&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://discordapp.com/channels/@me/thevirus00#8532/" target="_blank"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=5865F2&logoColor=white&style=for-the-badge" target="_blank"></a>
